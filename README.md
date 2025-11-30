@@ -92,7 +92,24 @@ The normal user speaks into the mobile phone. The mobile application converts sp
 - Cloud and IoT connectivity  
 - Miniaturization using custom PCB  
 - Development of a full-featured Android mobile app  
-- Battery life optimization  
+- Battery life optimization
+
+---
+
+## 🖼️ Project Output Images
+
+### 🔹 Working Prototype
+![Working Prototype](images/6.3.jpeg)
+
+### 🔹 OLED Output Display
+![OLED Output](images/6.2.jpeg)
+
+### 🔹 Smart Glove with Flex Sensors
+![Smart Glove](images/6.4.jpeg)
+
+### 🔹 Mobile App Bluetooth Communication
+![Bluetooth App](images/6.5.jpeg)
+
 
 ---
 
