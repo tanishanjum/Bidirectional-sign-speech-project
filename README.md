@@ -99,16 +99,16 @@ The normal user speaks into the mobile phone. The mobile application converts sp
 ## 🖼️ Project Output Images
 
 ### 🔹 Working Prototype
-![Working Prototype](images/6.3.jpeg)
+![Working Prototype](https://github.com/tanishanjum/Bidirectional-sign-speech-project/blob/main/6.3.jpeg)
 
 ### 🔹 OLED Output Display
-![OLED Output](images/6.2.jpeg)
+![OLED Output](https://github.com/tanishanjum/Bidirectional-sign-speech-project/blob/main/6.2.jpeg)
 
 ### 🔹 Smart Glove with Flex Sensors
 ![Smart Glove](https://raw.githubusercontent.com/tanishanjum/Bidirectional-sign-speech-project/refs/heads/main/6.4.jpeg)
 
 ### 🔹 Mobile App Bluetooth Communication
-![Bluetooth App](images/6.5.jpeg)
+![Bluetooth App](https://github.com/tanishanjum/Bidirectional-sign-speech-project/blob/main/6.5.jpeg)
 
 
 ---
