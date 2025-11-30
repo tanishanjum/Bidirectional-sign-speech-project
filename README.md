@@ -105,7 +105,7 @@ The normal user speaks into the mobile phone. The mobile application converts sp
 ![OLED Output](images/6.2.jpeg)
 
 ### 🔹 Smart Glove with Flex Sensors
-![Smart Glove](images/6.4.jpeg)
+![Smart Glove](https://raw.githubusercontent.com/tanishanjum/Bidirectional-sign-speech-project/refs/heads/main/6.4.jpeg)
 
 ### 🔹 Mobile App Bluetooth Communication
 ![Bluetooth App](images/6.5.jpeg)
